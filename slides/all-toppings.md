@@ -1,7 +1,9 @@
 ##  All Toppings
 
-This is a new Markdown slide
+This is a new Markdown slide.
+Editted online by Aubrey Moore.
 
 note:
     Put your speaker notes here.
     You can see them pressing 's'.
+    ya see this?
