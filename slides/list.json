@@ -1,4 +1,11 @@
 [
     "index.md",
-    "slide-title.html"
+    "slide-title.html",
+    "awesome.md",
+    {
+        "filename": "all-toppings.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
 ]
